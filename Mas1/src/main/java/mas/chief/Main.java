@@ -13,5 +13,8 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        // just write something k8s
+        System.out.println("k8s 进入数据中心");
     }
 }
